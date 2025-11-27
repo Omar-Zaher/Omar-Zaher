@@ -19,8 +19,8 @@
   </a>
 
 </div>
+<hr/>
 
-<br/><br/>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 
 <br/><br/>
-
+<hr/>
 <h3 align="center">  Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omar-Zaher&show_icons=true&hide_border=true&count_private=true&title_color=0077B5&icon_color=0077B5&text_color=FFFFFF&bg_color=00000000" height="150" alt="stats graph" />
