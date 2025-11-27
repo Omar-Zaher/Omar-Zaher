@@ -30,11 +30,11 @@
 
 <h3 align="center">  Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Zaher&show_icons=true&hide_border=true&count_private=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Zaher&show_icons=true&hide_border=true&count_private=true&title_color=0077B5&icon_color=0077B5&text_color=FFFFFF&bg_color=00000000" height="150" alt="stats graph" />
 
 <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Zaher&layout=compact&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Zaher&layout=compact&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=FFFFFF&bg_color=00000000" height="150" alt="languages graph" />
 </div>
 
 <br/>
