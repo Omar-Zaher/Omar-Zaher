@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Omar+Zaher;A+Passionate+Developer;Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0077B5&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Omar+Zaher;A+Passionate+Developer;Welcome+to+my+profile!" />
 
   <h3>Learn | Develop | Create</h3>
   <h6>And Don't Forget to enjoy</h6>
