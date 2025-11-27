@@ -4,6 +4,7 @@
 
   <h3>Learn | Develop | Create</h3>
   <h6>And Don't Forget to enjoy</h6>
+  <p>I’ve traveled the world and picked up new skills in every place I visited. Right now, I’m focused on strengthening my Python skills through a 100-day challenge, where I build small projects every single day and document everything here.</p>
   
   <br/>
 
