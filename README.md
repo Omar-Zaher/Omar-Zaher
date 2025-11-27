@@ -34,8 +34,4 @@
 
 <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Zaher&layout=compact&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=FFFFFF&bg_color=00000000" height="150" alt="languages graph" />
-</div>
-
-<br/>
 
